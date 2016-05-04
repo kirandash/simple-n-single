@@ -1,0 +1,21 @@
+body {
+	background: #fff;
+	font-family: 'Abel', sans-serif;
+	font-size: 20px;
+	color: #3B3B3B;	
+}
+
+h1 {
+	font-family: "impact";
+	font-weight: normal;
+	text-transform: uppercase;
+	margin: 0;
+	padding: 0;
+	color: #111111;
+}
+
+#logo h1 {
+	line-height: 150px;
+	letter-spacing: 3px;
+	font-size: 3em;
+}
