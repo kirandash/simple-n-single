@@ -32,3 +32,9 @@ h1 {
 	margin: 0 auto;
 	padding: 0px 0px;
 }
+
+#banner {
+	width: 1000px;
+	height: 440px;
+	margin: 0px auto;
+}
