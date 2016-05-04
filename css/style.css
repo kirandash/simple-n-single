@@ -5,7 +5,7 @@ body {
 	color: #3B3B3B;	
 }
 
-h1 {
+h1, h2 {
 	font-family: "impact";
 	font-weight: normal;
 	text-transform: uppercase;
@@ -17,7 +17,7 @@ h1 {
 #logo h1 {
 	line-height: 150px;
 	letter-spacing: 3px;
-	font-size: 3em;
+	font-size: 7em;
 }
 
 #header-page {
@@ -52,7 +52,7 @@ img {
 
 #threeColumns h2 {
 	padding: 0px 9px 20px 0;
-	font-size: 30px;
+	font-size: 48px;
 }
 
 #threeColumns #column1 {
