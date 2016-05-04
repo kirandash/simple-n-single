@@ -19,3 +19,16 @@ h1 {
 	letter-spacing: 3px;
 	font-size: 3em;
 }
+
+#header-page {
+	overflow: hidden;
+	height: 600px;
+}
+
+#header {
+	overflow: hidden;
+	width: 1000px;
+	height: 150px;
+	margin: 0 auto;
+	padding: 0px 0px;
+}
